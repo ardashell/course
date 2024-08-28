@@ -1,2 +1,2 @@
  строка
-[index.md](./index.md)
+[main page](./index.md)
