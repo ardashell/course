@@ -1,1 +1,2 @@
- sdfsdjf sdf 
+ строка
+[index.md](./index.md)
